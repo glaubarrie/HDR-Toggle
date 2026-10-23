@@ -1,5 +1,5 @@
 # HDR-Toggle
-Toggle HDR threw a custom hotkey.
+Toggle HDR with a custom hotkey. Reliable alternative to GameBars' WIN+ALT+B.
 
 
 **🚀Features:**
@@ -10,4 +10,4 @@ Toggle HDR threw a custom hotkey.
 - native notifications
 
 **🔗Dependencies**
-- Win10 or 11
+- Windows 10 or 11
